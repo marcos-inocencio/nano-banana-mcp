@@ -1,0 +1,4 @@
+# Copy to .dev.vars (ignored). Never commit real values.
+GEMINI_API_KEY=
+# JSON array of exact OAuth subject identifiers. Empty denies all users.
+ALLOWED_SUBJECTS=[]
